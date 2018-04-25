@@ -18,14 +18,25 @@ nav ul li a{
 	text-transform: capitalize;
 	font-size: 22px;
 	}
-li{
+nav ul li{
 	display:inline-block;
 	}
+
+.portfolio{
+	padding-bottom: 15px;
+}
+
+.portfolio-image{
+	padding-bottom: 15px;
+	list-style-type: none;
+}
+
 h1{
 	text-transform: uppercase;
 	letter-spacing: 1px;
 	text-align: center;
 	font-size: 35px;
+	border-bottom: 1px black;
 	}
 h2{
 	text-transform: uppercase;
