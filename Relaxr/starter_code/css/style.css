@@ -1,0 +1,121 @@
+*{
+	
+}
+body{
+	font-family: 'Open Sans', sans-serif;
+	background: #121212;
+	text-align: center;
+	max-width: 1000px;
+	margin: auto;
+}
+h1{
+	font-weight: 600;
+	font-size: 24px;
+}
+h2{
+	font-weight: 800;
+	font-size: 24px;
+}
+p{
+	padding-top: 20px;
+}
+li{
+	display: list-item;
+}
+.section{
+
+}
+#section1{
+	height: 300px;
+	background-image: url("../images/header_bg.jpg");
+	background-repeat: no-repeat;
+	background-position: center;
+	padding: 70px;
+	text-align: center;
+}
+#logo{
+	padding-top: 20px;
+	color: #f0efef;
+	text-align: left;
+	margin-left: 50px;
+}
+#herotext{
+	padding-top: 50px;
+	color: #f0efef;
+}
+#getitnow{
+	padding: 5px;
+	margin-top: 40px;
+	background: yellow;
+	font-weight: 800;
+	font-size: 14px;
+	border-radius: 5px;
+}
+#section2{
+	height: 300px;
+	text-align: left;
+	padding-left: 70px;
+	padding-top: 70px;
+	background: #f0efef;
+}
+#BenefitsTitle{
+	font-weight: 600;
+	font-size: 20px;
+	color: #121212;
+}
+#BenefitsParagraph{
+	font-weight: 300;
+	font-size: 13px;
+	color: #121212;
+}
+#BenefitsList{
+	font-weight: 300;
+	font-size: 13px;
+}
+#section3{
+	height: 300px;
+	background-image: url("../images/testimonial_bg.jpg");
+}
+#recommendation{
+	font-weight: 300i;
+	font-size: 18px;
+	color: #f0efef;
+}
+#recommender{
+	font-weight: 600;
+	font-size: 18px;
+	color: #f0efef;
+}
+#section4{
+	height: 50px;
+	background: #f9e42e;
+	font-weight: 600;
+	font-size: 18px;
+}
+#signupnow{
+	font-weight: 800;
+	font-size: 12px;
+	border-radius: 5px;
+	background-color: #043048;
+	color: #f0efef;
+}
+#section5{
+	height: 100px;
+	background: #121212;
+	text-align: center;
+}
+#logo-bottom{
+	padding-top: 20px;
+	text-align: center;
+	font-weight: 800;
+	font-size: 24px;
+	color: #f9e42e;
+}
+#smicons{
+
+}
+#copyright{
+	font-weight: 600;
+	font-size: 9px;
+	color: #f0efef;
+}
