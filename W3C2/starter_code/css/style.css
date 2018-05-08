@@ -1,0 +1,97 @@
+/*** LET THE FUN BEGINNNNNNN   ****/
+/* Write css below this line */
+
+body{
+	font-family: 'Open Sans', sans-serif;
+	font-size: 24px;
+	font-weight: 400;
+	width: 100%;
+	background-color: #f0efef;
+}
+
+header{
+	background-color: #033048;
+	padding: 30px;
+	overflow: auto;
+}
+
+#Logo{
+	color: #f9e42e;
+	font-weight: 800;
+	float: left;
+}
+
+nav ul{
+	float: right;
+
+}
+
+nav ul li {
+	display: inline-block;
+}
+
+nav ul li a{
+	text-decoration: none;
+}
+.mainmenu_item{
+
+
+}
+
+#main_content{
+	background-color: #f0efef;
+
+}
+
+#main{
+	width: 100%;
+	max-width: 1300px;
+	margin: 0 auto;
+}
+
+#BlogFeed{
+	display: inline-block;
+	width: 70%;
+}
+
+#Sidebar{
+  	display:inline-block;
+  	width: 25%;
+}
+
+.article{
+
+}
+
+.article_title{
+	font-weight: 600;
+	font-size: 40px;
+}
+
+.article_content{
+
+}
+.article_LearnMore{
+	font-weight: 800;
+}
+
+.Categories{
+
+}
+.Sidebar_title{
+	font-size: 32px;
+	font-weight: 800;
+}
+.Sidebar_menuitem{
+
+}
+.About{
+
+}
+.Sidebar_content{
+
+}
+.AdUnit{
+
+}
+/***********/
